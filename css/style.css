@@ -98,13 +98,10 @@ margin: 0 auto;
 .hi_row{
    display: flex;
    justify-content: space-between;
-   
-
 }
 .hi_body{
    color: #80B7B3;
    padding-right: 30px;
-   
 }
 .hi_title{
    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);
@@ -146,7 +143,6 @@ margin: 0 auto;
 .whate{
    padding: 50px 0;
 }
-
 .whate_row{
    display: flex;
 }
@@ -156,7 +152,6 @@ margin: 0 auto;
    border: 9px solid #80B7B3;
    border-radius: 10px;
    background: url('../img/about/1.jpg') 0 0/auto 100%  no-repeat;
-
 }
 .what_body{
    flex: 1 1 auto;
@@ -164,10 +159,7 @@ margin: 0 auto;
 }
 .what_title{
    margin: 0 0 33px 0;
-} 
-
-.what_text{}
-
+}
 .what_text p{
    margin: 0 0 35px 0;
    color: #213E57;
@@ -175,7 +167,6 @@ margin: 0 auto;
    line-height: 30px;
    font-weight: 600;
 }
-
 .columns {
    background-color: #9BACB3;
    padding: 20px 0;
@@ -187,7 +178,6 @@ margin: 0 auto;
    text-align: center;
    margin: 0 0 30px 0;
 }
-
 .columns_row {
    display: flex;
    flex-wrap: wrap;
@@ -205,7 +195,6 @@ margin: 0 auto;
    border: 8px solid#213E57;
    border-radius: 15px;
    flex: 0 0 200px;
-  
 }
 .item_body {
    flex: 1 1 auto;
@@ -216,7 +205,6 @@ margin: 0 auto;
    font-size: 24px;
    line-height: 30px;
    margin: 0 0 13px 0;
-
 }
 .item_text {
    margin: 0 0 35px 0;
@@ -289,15 +277,12 @@ margin: 0 auto;
    text-align: center;
    line-height: 40px;
 }
-
-
 .about {
    padding:30px 0;
    margin: 0 10px;
    border: 5px solid#213E57;
    border-radius: 10px;
    background: url('../img/about/unnamed.gif')
-
 }
 .about_body {
    max-width: 823px;
@@ -305,11 +290,9 @@ margin: 0 auto;
 }
 .about_header {
 		margin: 0 0 65px 0;
-
 }
 .about_title {
 		margin: 0 0 30px 0;
-
 }   
 .title {
    font-size: 40px;
@@ -329,8 +312,6 @@ margin: 0 auto;
    text-align: center;
    line-height: 30px;
    margin: 0 auto;
-
-
 }
 .about_row {
    display: flex;
@@ -368,8 +349,6 @@ margin: 0 auto;
    font-weight: 600;
    font-size: 14px;
 }
-
-
 .footer{
    margin: 10px;
    background: #213E57;
@@ -377,8 +356,6 @@ margin: 0 auto;
    padding: 10px;
    border-radius: 15px;
    font-family: Arial, Helvetica, sans-serif;
-
-
 }
 .footer nav{
    display: block;
@@ -389,7 +366,6 @@ margin: 0 auto;
    font-size: 20px;
    margin-left: 30px;
    text-transform: uppercase;
-
 }
 
 .footer nav a:hover{
@@ -401,7 +377,6 @@ margin: 0 auto;
 }
 .social{
    margin-top: 10px;
-
 }
 .social a{
    margin-left: 30px;
